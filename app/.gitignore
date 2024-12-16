@@ -1,1 +1,6 @@
 /build
+
+*
+
+!src/main/
+!src/main/**
